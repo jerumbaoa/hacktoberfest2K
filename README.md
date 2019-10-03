@@ -31,6 +31,6 @@ lastname-firstname.file
 ```
 
 * Task-2: [Add Profile](https://github.com/jerumbaoa/hacktoberfest2K/index.html)
-Add your github profile on <ul> at index.html
+Add your github profile on ```sh<ul>``` at index.html
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
