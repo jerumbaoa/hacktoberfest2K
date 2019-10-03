@@ -14,7 +14,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
 Here are 3 quick and easy  ways to contribute to this project:
 
-* Task-0: [Add your name](https://github.com/jerumbaoa/hacktoberfest2K/CONTRIBUTORS.md)
+* Task-0: [Add your name](https://github.com/jerumbaoa/hacktoberfest2K/blob/master/CONTRIBUTORS.md)
 Add your name to the CONTRIBUTORS.md file.
 ```sh
 FORMAT
@@ -23,14 +23,14 @@ FORMAT
 - GitHub: (https://github.com/link)
 ```
 
-* Task-1: [Create script](https://github.com/jerumbaoa/hacktoberfest2K/scripts)
+* Task-1: [Create script](https://github.com/jerumbaoa/hacktoberfest2K/tree/master/scripts)
 Create a script of your choosen programming language.
 ```sh
 FILENAME
 lastname-firstname.file
 ```
 
-* Task-2: [Add Profile](https://github.com/jerumbaoa/hacktoberfest2K/index.html)
+* Task-2: [Add Profile](https://github.com/jerumbaoa/hacktoberfest2K/blob/master/index.html)
 Add your github profile on ```<ul>``` at index.html
 
-Choose one or all 3, make a pull request for your work and wait for it to be merged!
+### Choose one or all 3, make a pull request for your work and wait for it to be merged!
