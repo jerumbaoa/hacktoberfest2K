@@ -9,3 +9,7 @@
 #### Name: [Theressa Marie Tan](https://github.com/tmttan03)
 - Place: Davao City
 - GitHub: (https://github.com/tmttan03)
+
+#### Name: [Sanny Candidier](https://github.com/sannycand)
+- Place: Maa, Davao City
+- GitHub: (https://github.com/sannycand)
