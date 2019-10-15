@@ -13,3 +13,7 @@
 #### Name: [Sanny Candidier](https://github.com/sannycand)
 - Place: Maa, Davao City
 - GitHub: (https://github.com/sannycand)
+
+#### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
+- Place: Garcia Heights, Davao City
+- GitHub: (https://github.com/Chibi-Shem)
