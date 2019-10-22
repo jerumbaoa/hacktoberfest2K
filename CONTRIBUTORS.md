@@ -17,3 +17,7 @@
 #### Name: [Shem Ipanag](https://github.com/Chibi-Shem)
 - Place: Garcia Heights, Davao City
 - GitHub: (https://github.com/Chibi-Shem)
+
+#### Name: [CJ Dango](https://github.com/cjdango)
+- Place: Panacan, Davao City
+- GitHub: (https://github.com/cjdango)
