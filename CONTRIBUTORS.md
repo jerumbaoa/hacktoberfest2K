@@ -21,3 +21,7 @@
 #### Name: [CJ Dango](https://github.com/cjdango)
 - Place: Panacan, Davao City
 - GitHub: (https://github.com/cjdango)
+
+#### Name: [Anton Sison](https://github.com/antonsison)
+- Place: Bacaca, Davao City
+- GitHub: (https://github.com/antonsison)
