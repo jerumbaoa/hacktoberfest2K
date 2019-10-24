@@ -29,3 +29,7 @@
 #### Name: [Melchi Lloyd Aballe](https://github.com/melchiaballe)
 - Place: Cabantian, Davao City
 - GitHub: (https://github.com/melchiaballe)
+
+#### Name: [Kerstine Rodilla](https://github.com/kerstiner)
+- Place: Lanang, Davao City
+- GitHub: (https://github.com/kerstiner)
