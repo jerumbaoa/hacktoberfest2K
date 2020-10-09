@@ -33,3 +33,9 @@
 #### Name: [Kerstine Rodilla](https://github.com/kerstiner)
 - Place: Lanang, Davao City
 - GitHub: (https://github.com/kerstiner)
+
+
+#### Name: [Angelica Jones](https://github.com/anjones1000)
+- Place: Austin, Texas
+- GitHub: (https://github.com/anjones1000)
+
