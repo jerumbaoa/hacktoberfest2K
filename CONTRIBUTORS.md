@@ -10,3 +10,6 @@
 - Place: Davao City
 - GitHub: (https://github.com/tmttan03)
 
+#### Name: [Sanny Candidier Jr.](https://github.com/sannycand)
+- Place: Aleosan
+- GitHub: (https://github.com/sannycand)
