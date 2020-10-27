@@ -17,3 +17,7 @@
 #### Name: [Anton Iñaki Sison](https://github.com/antonsison)
 - Place: Rolling Hills
 - GitHub: (https://github.com/antonsison)
+
+#### Name: [Juniper](https://github.com/laughface809)
+- Place: Kupang
+- GitHub: (https://github.com/laughface809)
