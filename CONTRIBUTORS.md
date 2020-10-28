@@ -33,3 +33,7 @@
 #### Name: [Mariana Barcelos](https://github.com/maribarcelos1)
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
+
+#### Name: [Felipe Souza](https://github.com/fnscoder)
+- Place: Brazil
+- GitHub: (https://github.com/fnscoder)
