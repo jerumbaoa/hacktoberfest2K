@@ -2,6 +2,10 @@
 - Place: Matina Crossing
 - GitHub: (https://github.com/jerumbaoa)
 
+#### Name: [Gabriela Satie](https://github.com/gabiusp)
+- Place: São Paulo
+- GitHub: (https://github.com/gabiusp)
+
 #### Name: [Melchi Lloyd Aballe](https://github.com/melchiaballe)
 - Place: Cabantian
 - GitHub: (https://github.com/melchiaballe)
