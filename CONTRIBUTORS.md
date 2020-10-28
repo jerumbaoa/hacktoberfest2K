@@ -18,6 +18,10 @@
 - Place: Aleosan
 - GitHub: (https://github.com/sannycand)
 
+### Name: [Hritik Chaturvedi](https://github.com/hritikchaturvedi11/)
+- Place: Mumbai, India
+- Github: (https://github.com/hritikchaturvedi11/)
+
 #### Name: [Anton Iñaki Sison](https://github.com/antonsison)
 - Place: Rolling Hills
 - GitHub: (https://github.com/antonsison)
