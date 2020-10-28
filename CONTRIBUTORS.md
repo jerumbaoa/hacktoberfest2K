@@ -26,6 +26,10 @@
 - Place: Rolling Hills
 - GitHub: (https://github.com/antonsison)
 
+#### Name: [Juniper](https://github.com/laughface809)
+- Place: Kupang
+- GitHub: (https://github.com/laughface809)
+
 #### Name: [Mariana Barcelos](https://github.com/maribarcelos1)
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
