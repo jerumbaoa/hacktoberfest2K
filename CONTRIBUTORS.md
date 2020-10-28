@@ -17,3 +17,7 @@
 #### Name: [Anton Iñaki Sison](https://github.com/antonsison)
 - Place: Rolling Hills
 - GitHub: (https://github.com/antonsison)
+
+#### Name: [Mariana Barcelos](https://github.com/maribarcelos1)
+- Place: Brazil
+- GitHub: (https://github.com/maribarcelos1)
