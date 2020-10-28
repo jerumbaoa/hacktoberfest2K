@@ -33,3 +33,7 @@
 #### Name: [Mariana Barcelos](https://github.com/maribarcelos1)
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
+
+#### Name: [Nick Vokey](https://github.com/vokeynick)
+- Place: Canada
+- GitHub: (https://github.com/vokeynick)
