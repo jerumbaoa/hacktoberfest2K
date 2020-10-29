@@ -34,6 +34,10 @@
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
 
+#### Name: [Felipe Souza](https://github.com/fnscoder)
+- Place: Brazil
+- GitHub: (https://github.com/fnscoder)
+
 #### Name: [Nick Vokey](https://github.com/vokeynick)
 - Place: Canada
 - GitHub: (https://github.com/vokeynick)
