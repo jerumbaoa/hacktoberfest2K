@@ -34,6 +34,13 @@
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
 
+
+#### Name: [Camila Mayta](https://github.com/Camiila23)
+- Place: Peru
+- GitHub: (https://github.com/Camiila23)
+
+
+
 #### Name: [Felipe Souza](https://github.com/fnscoder)
 - Place: Brazil
 - GitHub: (https://github.com/fnscoder)
