@@ -41,3 +41,7 @@
 #### Name: [Nick Vokey](https://github.com/vokeynick)
 - Place: Canada
 - GitHub: (https://github.com/vokeynick)
+
+#### Name: [Tamanna Rajput](https://github.com/Tamanna24)
+- Place: India
+- Github: (https://github.com/Tamanna24)
