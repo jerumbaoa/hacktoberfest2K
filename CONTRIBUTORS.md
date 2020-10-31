@@ -41,3 +41,7 @@
 #### Name: [Nick Vokey](https://github.com/vokeynick)
 - Place: Canada
 - GitHub: (https://github.com/vokeynick)
+
+#### Name: [Oscar Romero](https://github.com/creaturenex)
+- Place: New York City, USA
+- Github: (https://github.com/creaturenex)
