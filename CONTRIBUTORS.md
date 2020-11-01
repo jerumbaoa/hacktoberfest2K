@@ -34,6 +34,10 @@
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
 
+#### Name: [Shashank Kesharwani](https://github.com/Shashank2808)
+- Place: India
+- GitHub: (https://github.com/Shashank2808)
+
 #### Name: [Felipe Souza](https://github.com/fnscoder)
 - Place: Brazil
 - GitHub: (https://github.com/fnscoder)
