@@ -34,12 +34,13 @@
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
 
-
 #### Name: [Camila Mayta](https://github.com/Camiila23)
 - Place: Peru
 - GitHub: (https://github.com/Camiila23)
 
-
+#### Name: [Shashank Kesharwani](https://github.com/Shashank2808)
+- Place: India
+- GitHub: (https://github.com/Shashank2808)
 
 #### Name: [Felipe Souza](https://github.com/fnscoder)
 - Place: Brazil
@@ -48,3 +49,7 @@
 #### Name: [Nick Vokey](https://github.com/vokeynick)
 - Place: Canada
 - GitHub: (https://github.com/vokeynick)
+
+#### Name: [Tamanna Rajput](https://github.com/Tamanna24)
+- Place: India
+- Github: (https://github.com/Tamanna24)
