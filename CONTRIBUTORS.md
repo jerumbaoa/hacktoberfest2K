@@ -50,6 +50,10 @@
 - Place: Canada
 - GitHub: (https://github.com/vokeynick)
 
+#### Name: [Oscar Romero](https://github.com/creaturenex)
+- Place: New York City, USA
+- Github: (https://github.com/creaturenex)
+
 #### Name: [Tamanna Rajput](https://github.com/Tamanna24)
 - Place: India
 - Github: (https://github.com/Tamanna24)
