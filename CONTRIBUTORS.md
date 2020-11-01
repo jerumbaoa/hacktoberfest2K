@@ -34,6 +34,10 @@
 - Place: Brazil
 - GitHub: (https://github.com/maribarcelos1)
 
+#### Name: [Camila Mayta](https://github.com/Camiila23)
+- Place: Peru
+- GitHub: (https://github.com/Camiila23)
+
 #### Name: [Shashank Kesharwani](https://github.com/Shashank2808)
 - Place: India
 - GitHub: (https://github.com/Shashank2808)
