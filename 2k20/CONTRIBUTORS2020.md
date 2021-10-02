@@ -57,3 +57,7 @@
 #### Name: [Tamanna Rajput](https://github.com/Tamanna24)
 - Place: India
 - Github: (https://github.com/Tamanna24)
+
+#### Name: [Shriraj Chinchwade](https://github.com/sgc-2924)
+- Place: Pune, India
+- Github: (https://github.com/sgc-2924)
