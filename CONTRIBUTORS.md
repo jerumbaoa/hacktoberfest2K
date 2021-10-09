@@ -5,3 +5,7 @@
 #### Name: [Jhoser Pacheco](https://github.com/jhoserpacheco)
 - Place: Cucuta, Colombia
 - GitHub: (https://github.com/jhoserpacheco)
+
+#### Name: [Jatin Kumar](https://github.com/jatinsajwan3841)
+- Place: Uttarakhand, India
+- GitHub: (https://github.com/jatinsajwan3841)
