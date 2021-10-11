@@ -13,3 +13,7 @@
 #### Name: [Prajwal Benedict A](https://github.com/BENEDICT9845)
 - Place: India
 - GitHub: (https://github.com/BENEDICT9845)
+
+#### Name: [Parinay Panwar](https://github.com/parinay602)
+- Place: India
+- GitHub: (https://github.com/parinay602)
