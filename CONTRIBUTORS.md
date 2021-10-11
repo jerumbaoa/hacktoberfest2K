@@ -9,3 +9,7 @@
 #### Name: [Digvijaysing Rajput](https://github.com/RoyalTechie)
 - Place: India
 - GitHub: (https://github.com/RoyalTechie)
+
+#### Name: Prajwl Benedict A](https://github.com/BENEDICT9845)
+- Place: India
+- GitHub: (https://github.com/BENEDICT9845)
