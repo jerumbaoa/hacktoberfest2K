@@ -17,3 +17,7 @@
 #### Name: [Parinay Panwar](https://github.com/parinay602)
 - Place: India
 - GitHub: (https://github.com/parinay602)
+
+#### Name: [Champ](https://github.com/Champforfun)
+- Place: India
+- GitHub: https://github.com/Champforfun
