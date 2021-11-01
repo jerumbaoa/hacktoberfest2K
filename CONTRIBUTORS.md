@@ -33,6 +33,11 @@
 - Place: India
 - GitHub: https://github.com/Champforfun
 
+#### Name: [Saumya](https://github.com/SaumyaBhushan)
+
+- Place: India
+- GitHub: (https://github.com/SaumyaBhushan)
+
 #### Name: [Anshuman Tripathy](https://github.com/AnshumanTripathy123)
 
 - Place: India
