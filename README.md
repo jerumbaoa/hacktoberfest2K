@@ -1,12 +1,12 @@
 # Happy Hacking Folks!
 
 # What is Hacktoberfest?
-A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st - 31st presented by [Digital Ocean](https://www.digitalocean.com/), [ILLA](https://bit.ly/3QXPxq1) and [Appwrite](https://apwr.dev/485T4bQ) collaborated with [GitHub](https://github.com) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+[https://hacktoberfest.com/](https://hacktoberfest.com/)
 
 # Rules
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 50,000__ participants who successfully complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.com/) and make four Pull Requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year marks the 10th anniversary of Hacktoberfest, and we’re calling on your support! Whether it’s your first time participating—or your tenth—it’s almost time to hack out four pristine pull/merge requests as we continue our month of support for open source.
 
 # Choose from these tasks
 
